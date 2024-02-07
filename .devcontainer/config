@@ -3,7 +3,7 @@
 [connections.dev]
 accountname = qvaoayu-cn40405
 username = chnmaruthi
-password = Nagmar@27
+password = Nagmar@7
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
